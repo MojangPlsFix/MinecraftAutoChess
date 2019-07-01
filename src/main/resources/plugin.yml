@@ -1,0 +1,7 @@
+name: Minecraft Auto Chess
+version: @version@
+main: com.fabianrossmann.minecraftautochess.MinecraftAutoChess
+api-version: 1.13
+authors: [fabrossmann, MojangPlsFix]
+description: Auto Chess for Minecraft
+website: fabianrossmann.com
